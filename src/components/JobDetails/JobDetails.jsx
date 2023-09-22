@@ -24,8 +24,8 @@ const JobDetails = () => {
                     <img src={selectedJob.logo} alt="" className='object-cover max-w-xs' />
                 </div>
             </div>
-            <div className="grid grid-cols-5 gap-4 my-8">
-                <div className="col-span-3 space-y-8">
+            <div className="grid grid-cols-2 lg:grid-cols-5 gap-4 my-8">
+                <div className="col-span-2 lg:col-span-3 space-y-8">
                     <p><span className="font-bold">Job Description : </span>{selectedJob.job_description}</p>
                     <p><span className="font-bold">Job Responsibility : </span>{selectedJob.job_responsibility}</p>
                     <h2 className="text-xl font-bold">Educational Requirements : </h2>
