@@ -1,7 +1,7 @@
 const Jobs = () => {
     return (
-        <div>
-            <h1>Hello from Jobs</h1>            
+        <div className="h-[50vh]">
+            <h1 className="text-5xl text-center p-6">Coming Soon .....</h1>            
         </div>
     );
 };
