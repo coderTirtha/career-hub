@@ -1,0 +1,192 @@
+[
+  {
+    "id": "3c7e16a4",
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Technical Database Engineer at Google LLC is responsible for designing and maintaining database systems to support various applications and services. They ensure the reliability, security, and performance of database systems.",
+    "job_responsibility": "Technical Database Engineers collaborate with software developers, system administrators, and other teams to design, implement, and optimize database solutions. They also monitor database performance, troubleshoot issues, and implement security measures.",
+    "educational_requirements": "A Bachelor's degree in Computer Science or a related field is required.",
+    "experiences": "Candidates should have 2-3 years of experience in database administration and management.",
+    "contact_information": {
+      "phone": "01750-00 00 01",
+      "email": "google_info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "6b9e23d1",
+    "logo": "https://i.ibb.co/H4wJGhb/netflix-4-1.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "Netflix",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "100k-150k",
+    "job_description": "A Senior Product Designer at Netflix is responsible for creating and enhancing the user experience of the Netflix platform. They work on designing the interface and user interactions to make streaming content enjoyable for users.",
+    "job_responsibility": "Senior Product Designers collaborate with cross-functional teams to conceptualize and execute design solutions. They conduct user research, create wireframes and prototypes, and iterate on designs based on user feedback.",
+    "educational_requirements": "A Bachelor's degree in UI/UX design or a related field is required.",
+    "experiences": "Candidates should have 2-3 years of experience in UI/UX design.",
+    "contact_information": {
+      "phone": "01750-00 00 02",
+      "email": "netflix_info@gmail.com",
+      "address": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "60a57214",
+    "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "110k-160k",
+    "job_description": "A Software Engineer at Tesla is responsible for developing and maintaining software solutions for Tesla's electric vehicles and energy products. They work on cutting-edge technologies to drive innovation in the automotive industry.",
+    "job_responsibility": "Software Engineers at Tesla collaborate with cross-functional teams to design and implement software features. They write code, conduct code reviews, and ensure the quality and reliability of software.",
+    "educational_requirements": "A Bachelor's degree in Computer Science or a related field is required.",
+    "experiences": "Candidates should have 2-3 years of software engineering experience.",
+    "contact_information": {
+      "phone": "01750-00 00 03",
+      "email": "tesla_info@gmail.com",
+      "address": "Uttara, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "84db48f2",
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "120k-170k",
+    "job_description": "A Software Engineer at Google LLC is responsible for designing, developing, and maintaining software systems and applications. They work on a wide range of projects to improve Google's products and services.",
+    "job_responsibility": "Software Engineers collaborate with product managers and other teams to define software requirements, write code, and perform testing. They also debug and fix software issues and optimize performance.",
+    "educational_requirements": "A Bachelor's degree in Computer Science or a related field is required.",
+    "experiences": "Candidates should have 2-3 years of software engineering experience.",
+    "contact_information": {
+      "phone": "01750-00 00 04",
+      "email": "google_info@gmail.com",
+      "address": "Gulshan 1, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "c5c86667",
+    "logo": "https://i.ibb.co/JRXgX92/tesla-9-1.png",
+    "job_title": "Technical Database Engineer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "130k-170k",
+    "job_description": "A Technical Database Engineer at Tesla is responsible for managing and optimizing database systems to support Tesla's operations. They ensure data integrity, security, and performance.",
+    "job_responsibility": "Technical Database Engineers collaborate with software developers and data analysts to design and maintain databases. They also implement data backup and recovery procedures.",
+    "educational_requirements": "A Bachelor's degree in Computer Science or a related field is required.",
+    "experiences": "Candidates should have 2-3 years of experience in database administration.",
+    "contact_information": {
+      "phone": "01750-00 00 05",
+      "email": "tesla_info@gmail.com",
+      "address": "Mirpur, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "3a6c5ea0",
+    "logo": "https://i.ibb.co/0FHFP0C/airbnb.png",
+    "job_title": "Senior Product Designer",
+    "company_name": "AirBNB",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "130k-170k",
+    "job_description": "A Senior Product Designer at AirBNB is responsible for creating user-centered designs for the AirBNB platform. They work on improving the overall user experience of the platform.",
+    "job_responsibility": "Senior Product Designers collaborate with cross-functional teams to define design strategies and create mockups and prototypes. They conduct user research and gather feedback to iterate on designs.",
+    "educational_requirements": "A Bachelor's degree in UI/UX design or a related field is required.",
+    "experiences": "Candidates should have 2-3 years of experience in UI/UX design.",
+    "contact_information": {
+      "phone": "01750-00 00 06",
+      "email": "airbnb_info@gmail.com",
+      "address": "Dhanmondi 32, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "b5cd8c46",
+    "logo": "https://i.ibb.co/wLbp2zB/microsoft.png",
+    "job_title": "Data Scientist",
+    "company_name": "Microsoft",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "140k-190k",
+    "job_description": "A Data Scientist at Microsoft is responsible for analyzing data to extract valuable insights and support decision-making. They develop and implement data-driven solutions.",
+    "job_responsibility": "Data Scientists at Microsoft clean and preprocess data, build machine learning models, and create data visualizations. They work on solving complex business problems through data analysis.",
+    "educational_requirements": "A Master's degree in Data Science, Statistics, or a related field is required.",
+    "experiences": "Candidates should have 3-5 years of experience in data analysis and machine learning.",
+    "contact_information": {
+      "phone": "01750-00 00 07",
+      "email": "microsoft_info@gmail.com",
+      "address": "Motijheel, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "7f37ea25",
+    "logo": "https://i.ibb.co/CsKWywW/apple.png",
+    "job_title": "iOS App Developer",
+    "company_name": "Apple Inc.",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "140k-190k",
+    "job_description": "An iOS App Developer at Apple Inc. is responsible for designing and developing mobile applications for iOS devices. They use Swift and Objective-C to create high-quality apps.",
+    "job_responsibility": "iOS App Developers at Apple design, code, and test mobile applications. They ensure apps meet Apple's quality standards and provide a great user experience.",
+    "educational_requirements": "A Bachelor's degree in Computer Science or a related field is required.",
+    "experiences": "Candidates should have 2-4 years of iOS app development experience.",
+    "contact_information": {
+      "phone": "01750-00 00 08",
+      "email": "apple_info@gmail.com",
+      "address": "Banani, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "f90d5059",
+    "logo": "https://i.ibb.co/wcS3qVP/amazon.png",
+    "job_title": "Product Manager",
+    "company_name": "Amazon",
+    "remote_or_onsite": "Remote",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "150k-200k",
+    "job_description": "A Product Manager at Amazon is responsible for defining and executing the product strategy. They work closely with cross-functional teams to drive product innovation and success.",
+    "job_responsibility": "Product Managers at Amazon define product vision, create roadmaps, and prioritize features. They collaborate with engineering, design, and marketing teams to deliver customer-focused products.",
+    "educational_requirements": "A Bachelor's degree in Business, Engineering, or a related field is required.",
+    "experiences": "Candidates should have 5-7 years of product management experience.",
+    "contact_information": {
+      "phone": "01750-00 00 09",
+      "email": "amazon_info@gmail.com",
+      "address": "Khilgaon, Dhaka, Bangladesh"
+    }
+  },
+  {
+    "id": "a67b8b9c",
+    "logo": "https://i.ibb.co/PzrbTxh/google-1-1-1.png",
+    "job_title": "Machine Learning Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Onsite",
+    "location": "Dhaka, Bangladesh",
+    "job_type": "Full Time",
+    "salary": "130k-180k",
+    "job_description": "A Machine Learning Engineer at Google LLC is responsible for developing and implementing machine learning models and algorithms to improve various Google services and products.",
+    "job_responsibility": "Machine Learning Engineers work with large datasets, build and train machine learning models, and deploy them in production. They collaborate with research and engineering teams to drive innovation.",
+    "educational_requirements": "A Master's degree in Machine Learning, Computer Science, or a related field is required.",
+    "experiences": "Candidates should have 3-5 years of experience in machine learning and deep learning.",
+    "contact_information": {
+      "phone": "01750-00 00 10",
+      "email": "google_info@gmail.com",
+      "address": "Dhanmondi 32, Sukrabad Dhaka, Bangladesh"
+    }
+  }
+]
