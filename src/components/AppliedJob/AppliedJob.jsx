@@ -33,10 +33,10 @@ const AppliedJob = ({ application }) => {
                 </div>
                 <div className="flex flex-col gap-2 justify-center items-center">
                     <Link to={`/job/${id}`}><button className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white font-bold">View Details</button></Link>
-                    <button onClick={() => handleCancellation()} className="btn btn-outline btn-error">Cancel</button>
+                    <button onClick={() => handleCancellation()} className="btn w-full btn-outline btn-error">Cancel</button>
                 </div>
             </div>
-            <ToastContainer autoClose={2000} />
+            <ToastContainer autoClose={2000} draggable={true} />
         </div>
     );
 };
