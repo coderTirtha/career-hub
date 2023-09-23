@@ -1,0 +1,162 @@
+[
+  {
+    "month": "Jan",
+    "year": 2022,
+    "job_openings": 120,
+    "applications_received": 1500,
+    "offers_extended": 90,
+    "offers_accepted": 75
+  },
+  {
+    "month": "Feb",
+    "year": 2022,
+    "job_openings": 110,
+    "applications_received": 1400,
+    "offers_extended": 85,
+    "offers_accepted": 70
+  },
+  {
+    "month": "Mar",
+    "year": 2022,
+    "job_openings": 130,
+    "applications_received": 1550,
+    "offers_extended": 95,
+    "offers_accepted": 80
+  },
+  {
+    "month": "Apr",
+    "year": 2022,
+    "job_openings": 125,
+    "applications_received": 1600,
+    "offers_extended": 92,
+    "offers_accepted": 78
+  },
+  {
+    "month": "May",
+    "year": 2022,
+    "job_openings": 140,
+    "applications_received": 1650,
+    "offers_extended": 100,
+    "offers_accepted": 85
+  },
+  {
+    "month": "Jun",
+    "year": 2022,
+    "job_openings": 145,
+    "applications_received": 1700,
+    "offers_extended": 105,
+    "offers_accepted": 90
+  },
+  {
+    "month": "Jul",
+    "year": 2022,
+    "job_openings": 135,
+    "applications_received": 1750,
+    "offers_extended": 98,
+    "offers_accepted": 82
+  },
+  {
+    "month": "Aug",
+    "year": 2022,
+    "job_openings": 150,
+    "applications_received": 1800,
+    "offers_extended": 110,
+    "offers_accepted": 95
+  },
+  {
+    "month": "Sept",
+    "year": 2022,
+    "job_openings": 155,
+    "applications_received": 1850,
+    "offers_extended": 115,
+    "offers_accepted": 100
+  },
+  {
+    "month": "Oct",
+    "year": 2022,
+    "job_openings": 160,
+    "applications_received": 1900,
+    "offers_extended": 120,
+    "offers_accepted": 105
+  },
+  {
+    "month": "Nov",
+    "year": 2022,
+    "job_openings": 165,
+    "applications_received": 1950,
+    "offers_extended": 125,
+    "offers_accepted": 110
+  },
+  {
+    "month": "Dec",
+    "year": 2022,
+    "job_openings": 170,
+    "applications_received": 2000,
+    "offers_extended": 130,
+    "offers_accepted": 115
+  },
+  {
+    "month": "Jan",
+    "year": 2023,
+    "job_openings": 175,
+    "applications_received": 2050,
+    "offers_extended": 135,
+    "offers_accepted": 120
+  },
+  {
+    "month": "Feb",
+    "year": 2023,
+    "job_openings": 180,
+    "applications_received": 2100,
+    "offers_extended": 140,
+    "offers_accepted": 125
+  },
+  {
+    "month": "Mar",
+    "year": 2023,
+    "job_openings": 185,
+    "applications_received": 2150,
+    "offers_extended": 145,
+    "offers_accepted": 130
+  },
+  {
+    "month": "Apr",
+    "year": 2023,
+    "job_openings": 190,
+    "applications_received": 2200,
+    "offers_extended": 150,
+    "offers_accepted": 135
+  },
+  {
+    "month": "May",
+    "year": 2023,
+    "job_openings": 195,
+    "applications_received": 2250,
+    "offers_extended": 155,
+    "offers_accepted": 140
+  },
+  {
+    "month": "Jun",
+    "year": 2023,
+    "job_openings": 200,
+    "applications_received": 2300,
+    "offers_extended": 160,
+    "offers_accepted": 145
+  },
+  {
+    "month": "Jul",
+    "year": 2023,
+    "job_openings": 205,
+    "applications_received": 2350,
+    "offers_extended": 165,
+    "offers_accepted": 150
+  },
+  {
+    "month": "Aug",
+    "year": 2023,
+    "job_openings": 210,
+    "applications_received": 2400,
+    "offers_extended": 170,
+    "offers_accepted": 155
+  }
+]
