@@ -11,7 +11,7 @@ const Statistics = () => {
             <div>
                 <h2 className="text-2xl font-bold text-gray-400 my-4 text-center">Here goes several graphical representation!</h2>
             </div>
-            <div className='flex my-12'>
+            <div className='flex flex-col lg:flex-row my-12'>
                 <div className='flex flex-col justify-center items-center'>
                     <h1 className='text-xl font-bold'>Job Openings</h1>
                     <BarChart width={500} height={300} data={statisticsData}>
