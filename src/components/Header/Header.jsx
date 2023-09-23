@@ -1,4 +1,4 @@
-import { NavLink } from "react-router-dom";
+import { NavLink, Link } from "react-router-dom";
 
 const Header = () => {
     const links = <>
@@ -28,7 +28,7 @@ const Header = () => {
                     </ul>
                 </div>
                 <div className="navbar-end">
-                    <a className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white font-bold">Apply Now</a>
+                    <Link to={`/jobs`} className="btn bg-gradient-to-r from-[#7E90FE] to-[#9873FF] text-white font-bold">Apply Now</Link>
                 </div>
             </div>
         </div>
