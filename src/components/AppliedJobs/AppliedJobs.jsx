@@ -10,7 +10,7 @@ const AppliedJobs = () => {
     const [displayFilteredJobs, setDisplayFilteredJobs] = useState([]);
 
     const handleJobFilter = filter => {
-        if(filter === 'all') {
+        if (filter === 'all') {
             setDisplayFilteredJobs(appliedJobs);
         } else if (filter === "remote") {
             const remoteJobs = appliedJobs.filter(job => job.remote_or_onsite === "Remote");
@@ -48,6 +48,7 @@ const AppliedJobs = () => {
                     (appliedJobs.length === 0) ? <p className="text-center my-8 text-gray-400 border-b-2 border-b-gray-200 py-8">You haven't applied any job yet!</p> : displayFilteredJobs.map(application => <AppliedJob key={application.id} application={application}></AppliedJob>)
                 }
             </div>
+            
         </div>
     );
 };

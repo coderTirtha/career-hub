@@ -15,4 +15,10 @@ const saveJobApplications = id => {
     }
 }
 
-export { getStoredJobApplications, saveJobApplications }
+const removeJobApplications = id => {
+    const storedJobApplications = getStoredJobApplications();
+    const filteredApplications = storedJobApplications.filter(application => application !== id);
+    localStorage.setItem('job-applications', JSON.stringify(filteredApplications));
+}
+
+export { getStoredJobApplications, saveJobApplications, removeJobApplications }
